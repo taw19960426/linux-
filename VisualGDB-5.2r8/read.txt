@@ -1,0 +1,2 @@
+下载文件解压后先点击：VisualGDB-5.2r8-trial.msi
+安装以后再点击：PatchVisualGDB.exe
